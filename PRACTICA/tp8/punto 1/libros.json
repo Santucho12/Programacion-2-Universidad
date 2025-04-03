@@ -1,0 +1,6 @@
+[
+    {"titulo": "Cien Años de Soledad", "autor": "Gabriel Garcia Marquez", "genero": "Realismo mágico", "año": 1967, "isbn": 9788497592208},
+    {"titulo": "Don Quijote de la Mancha", "autor": "Miguel de Cervantes", "genero": "Novela", "año": 1605, "isbn": 9780142437230},
+    {"titulo": "La Casa de los Espíritus", "autor": "Isabel Allende", "genero": "Novela", "año": 1982, "isbn": 9780374515362},
+    {"titulo": "El Principito", "autor": "Antoine de Saint-Exupéry", "genero": "Fábula", "año": 1943, "isbn": 9780156012195}
+]
